@@ -1,0 +1,20 @@
+<archimate:SketchModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="koreczek"
+    id="id-e8d8c37704d94deabf518e167dccf414">
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="id-98c487e1c32d4f23988d9a8110f7e399"
+      name="Sticky"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="koreczek #1">
+    <bounds
+        x="360"
+        y="204"
+        width="169"
+        height="37"/>
+  </children>
+</archimate:SketchModel>
